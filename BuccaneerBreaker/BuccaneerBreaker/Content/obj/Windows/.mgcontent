@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/TeamRandi/Documents/GitHub/Soutenance_MonoGame/BuccaneerBreaker/BuccaneerBreaker/Content/TexDawn.png</File>
+    <File>C:/Users/TeamRandi/Documents/GitHub/Soutenance_MonoGame/BuccaneerBreaker/BuccaneerBreaker/Content/TexKraken.png</File>
+    <File>C:/Users/TeamRandi/Documents/GitHub/Soutenance_MonoGame/BuccaneerBreaker/BuccaneerBreaker/Content/TexMonsters.png</File>
+    <File>C:/Users/TeamRandi/Documents/GitHub/Soutenance_MonoGame/BuccaneerBreaker/BuccaneerBreaker/Content/TexPaddle.png</File>
+    <File>C:/Users/TeamRandi/Documents/GitHub/Soutenance_MonoGame/BuccaneerBreaker/BuccaneerBreaker/Content/TexSkullIsland.png</File>
+    <File>C:/Users/TeamRandi/Documents/GitHub/Soutenance_MonoGame/BuccaneerBreaker/BuccaneerBreaker/Content/TexSunset.png</File>
+    <File>C:/Users/TeamRandi/Documents/GitHub/Soutenance_MonoGame/BuccaneerBreaker/BuccaneerBreaker/Content/TexTwilight.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

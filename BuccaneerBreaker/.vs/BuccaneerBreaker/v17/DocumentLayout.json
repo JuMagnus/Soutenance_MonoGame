@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|c:\\users\\teamrandi\\documents\\github\\soutenance_monogame\\buccaneerbreaker\\buccaneerbreaker\\utils\\drawutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|solutionrelative:buccaneerbreaker\\utils\\drawutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\buccaneerbreaker\\scenes\\scenegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|solutionrelative:buccaneerbreaker\\scenes\\scenegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\buccaneerbreaker\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|solutionrelative:buccaneerbreaker\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\buccaneerbreaker\\services\\assets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|solutionrelative:buccaneerbreaker\\services\\assets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\buccaneerbreaker\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|solutionrelative:buccaneerbreaker\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|c:\\users\\teamrandi\\documents\\github\\soutenance_monogame\\buccaneerbreaker\\buccaneerbreaker\\buccaneerbreaker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|solutionrelative:buccaneerbreaker\\buccaneerbreaker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|c:\\users\\teamrandi\\documents\\github\\soutenance_monogame\\buccaneerbreaker\\buccaneerbreaker\\scenes\\scenemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|solutionrelative:buccaneerbreaker\\scenes\\scenemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|c:\\users\\teamrandi\\documents\\github\\soutenance_monogame\\buccaneerbreaker\\buccaneerbreaker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|solutionrelative:buccaneerbreaker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\buccaneerbreaker\\services\\inputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|solutionrelative:buccaneerbreaker\\services\\inputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\buccaneerbreaker\\services\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|solutionrelative:buccaneerbreaker\\services\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\buccaneerbreaker\\services\\serviceslocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|solutionrelative:buccaneerbreaker\\services\\serviceslocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\buccaneerbreaker\\scenes\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|solutionrelative:buccaneerbreaker\\scenes\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\buccaneerbreaker\\services\\screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|solutionrelative:buccaneerbreaker\\services\\screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DrawUtils.cs",
+              "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\Utils\\DrawUtils.cs",
+              "RelativeDocumentMoniker": "BuccaneerBreaker\\Utils\\DrawUtils.cs",
+              "ToolTip": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\Utils\\DrawUtils.cs",
+              "RelativeToolTip": "BuccaneerBreaker\\Utils\\DrawUtils.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvx0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T16:04:06.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuccaneerBreaker",
+              "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker.csproj",
+              "RelativeDocumentMoniker": "BuccaneerBreaker\\BuccaneerBreaker.csproj",
+              "ToolTip": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker.csproj",
+              "RelativeToolTip": "BuccaneerBreaker\\BuccaneerBreaker.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-28T16:03:24.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneGame.cs",
+              "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\Scenes\\SceneGame.cs",
+              "RelativeDocumentMoniker": "BuccaneerBreaker\\Scenes\\SceneGame.cs",
+              "ToolTip": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\Scenes\\SceneGame.cs",
+              "RelativeToolTip": "BuccaneerBreaker\\Scenes\\SceneGame.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T12:06:33.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sprite.cs",
+              "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\Sprite.cs",
+              "RelativeDocumentMoniker": "BuccaneerBreaker\\Sprite.cs",
+              "ToolTip": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\Sprite.cs",
+              "RelativeToolTip": "BuccaneerBreaker\\Sprite.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABcAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T22:50:31.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Assets.cs",
+              "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\Services\\Assets.cs",
+              "RelativeDocumentMoniker": "BuccaneerBreaker\\Services\\Assets.cs",
+              "ToolTip": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\Services\\Assets.cs",
+              "RelativeToolTip": "BuccaneerBreaker\\Services\\Assets.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T21:12:31.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\Main.cs",
+              "RelativeDocumentMoniker": "BuccaneerBreaker\\Main.cs",
+              "ToolTip": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\Main.cs",
+              "RelativeToolTip": "BuccaneerBreaker\\Main.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAADoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:25:34.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SceneMenu.cs",
+              "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\Scenes\\SceneMenu.cs",
+              "RelativeDocumentMoniker": "BuccaneerBreaker\\Scenes\\SceneMenu.cs",
+              "ToolTip": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\Scenes\\SceneMenu.cs",
+              "RelativeToolTip": "BuccaneerBreaker\\Scenes\\SceneMenu.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:36:26.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\Program.cs",
+              "RelativeDocumentMoniker": "BuccaneerBreaker\\Program.cs",
+              "ToolTip": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\Program.cs",
+              "RelativeToolTip": "BuccaneerBreaker\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T16:01:48.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SceneManager.cs",
+              "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\Services\\SceneManager.cs",
+              "RelativeDocumentMoniker": "BuccaneerBreaker\\Services\\SceneManager.cs",
+              "ToolTip": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\Services\\SceneManager.cs",
+              "RelativeToolTip": "BuccaneerBreaker\\Services\\SceneManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T12:11:36.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServicesLocator.cs",
+              "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\Services\\ServicesLocator.cs",
+              "RelativeDocumentMoniker": "BuccaneerBreaker\\Services\\ServicesLocator.cs",
+              "ToolTip": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\Services\\ServicesLocator.cs",
+              "RelativeToolTip": "BuccaneerBreaker\\Services\\ServicesLocator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T12:13:44.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Screen.cs",
+              "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\Services\\Screen.cs",
+              "RelativeDocumentMoniker": "BuccaneerBreaker\\Services\\Screen.cs",
+              "ToolTip": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\Services\\Screen.cs",
+              "RelativeToolTip": "BuccaneerBreaker\\Services\\Screen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T12:15:06.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\Scenes\\Scene.cs",
+              "RelativeDocumentMoniker": "BuccaneerBreaker\\Scenes\\Scene.cs",
+              "ToolTip": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\Scenes\\Scene.cs",
+              "RelativeToolTip": "BuccaneerBreaker\\Scenes\\Scene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:59:31.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Inputs.cs",
+              "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\Services\\Inputs.cs",
+              "RelativeDocumentMoniker": "BuccaneerBreaker\\Services\\Inputs.cs",
+              "ToolTip": "C:\\Users\\TeamRandi\\Documents\\GitHub\\Soutenance_MonoGame\\BuccaneerBreaker\\BuccaneerBreaker\\Services\\Inputs.cs",
+              "RelativeToolTip": "BuccaneerBreaker\\Services\\Inputs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T08:33:59.347Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
